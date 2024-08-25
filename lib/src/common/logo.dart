@@ -9,7 +9,7 @@ class Logo extends StatelessWidget {
        padding: EdgeInsets.fromLTRB(0, 60, 0, 0),
 
       child: Image.asset(
-        'assets/logo.png',
+        'assets.png',
         width: 68,
         height: 50.36,
       ),
